@@ -54,7 +54,5 @@ This project is licensed for educational purposes under the following conditions
 - You must retain this notice in all copies or substantial portions of the code.
 - You must provide clear attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
 
-For detailed information, refer to the (LICENSE) file.
-=======
-# Pacman Markov Decision Process
->>>>>>> 8a91be8e2a00e8576294145cfd911cf01e723e08
+For detailed information, refer to the [](LICENSE) file.
+
