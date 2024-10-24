@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Markov Decision Process For Pacman
 
 This project implements an **MDPAgent** (Markov Decision Process Agent) for Pacman, using value iteration to determine the optimal policy for Pacman's actions in the game grid.
